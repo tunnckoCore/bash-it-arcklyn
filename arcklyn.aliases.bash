@@ -14,6 +14,7 @@ alias gb='git back && git push -f'
 alias gback='git back && git push -f'
 alias gitback='git back && git push -f'
 
+alias home='cd $HOME'
 alias cov='istanbul cover test.js'
 alias gtok="echo `cat $HOME/.config/.github-token`"
 alias nrt='npm run test'
