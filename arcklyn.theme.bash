@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ###
-# arcklyn-theme <https://github.com/tunnckoCore/arcklyn-theme>
+# Arcklyn Theme <https://github.com/tunnckoCore/bash-it-arcklyn>
 #
 # Copyright (c) 2016 Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)
 # Released under the MIT license.
